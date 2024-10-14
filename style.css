@@ -4,8 +4,8 @@
     font-family: "Oswald", sans-serif;
 }
 body {
-    background-color: #596475;
-    color: #FDE8E9;
+    background-color: #5E5D5C;
+    color: white;
 }
 .container {
     display: flex;
@@ -28,7 +28,7 @@ body {
     border-radius: 5px;
     margin-inline: 5px;
     background-color: #1F2232;
-    color: #FDE8E9;
+    color: white;
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.3s,color 0.3s;
@@ -38,7 +38,7 @@ body {
     color: #222823;
 }
 #show-more {
-    background-color: #FDE8E9;
+    background-color: white;
     color: #1F2232;
     padding: 10px;
     padding-inline: 20px;
